@@ -1,1 +1,1 @@
-# phonepe-django
+# phonepay-django
